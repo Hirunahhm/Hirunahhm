@@ -93,13 +93,6 @@ Native Android smart-campus app built in an 18-hour window: canteen ordering wit
 
 ---
 
-### GitHub Stats
-
-![Hiruna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hirunahhm&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hirunahhm&layout=compact&hide_border=true)
-
----
-
 ### Let's Connect
 
 📫 [hirunamalavipathirana.333@gmail.com](mailto:hirunamalavipathirana.333@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/hiruna-malavipathirana-b0904916a) · 🌐 [Portfolio](https://www.hirunamalavipathirana.com)
